@@ -1,5 +1,5 @@
 <h1 align="center">  
-  <img src="https://files.catbox.moe/jxdffn.jpg" alt="𝐏𝐑𝐎𝐕𝐀-𝐌𝐃" width="800" style="border-radius:25px;box-shadow:0 0 30px violet;"/>  
+  <img src="https://files.catbox.moe/7qfwan.jpg" alt="𝐏𝐑𝐎𝐕𝐀-𝐌𝐃" width="800" style="border-radius:25px;box-shadow:0 0 30px violet;"/>  
 </h1>  
   
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>  
@@ -25,7 +25,7 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>  
 ## ⭐ 𝐅𝐎𝐑𝐊 & 𝐒𝐓𝐀𝐑  
 <p align="center">  
-  <a href="https://github.com/PakTechX/PROVA-MD/fork">  
+  <a href="https://github.com/BAGGA-SHER-MD/PROVA-MD/fork">  
     <img src="https://img.shields.io/badge/Fork-Repo-ff00ff?style=for-the-badge&logo=github&logoColor=white" />  
   </a>  
   <a href="https://github.com/PakTechX/PROVA-MD/stargazers">  
@@ -50,7 +50,7 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>  
 ## 🚀 𝐃𝐄𝐏𝐋𝐎𝐘 𝐍𝐎𝐖  
 <p align="center">  
-  <a href="https://dashboard.heroku.com/new?template=https://github.com/PakTechX/PROVA-MD">  
+  <a href="https://dashboard.heroku.com/new?template=https://github.com/BAGGA-SHER-MD/PROVA-MD">  
     <img src="https://img.shields.io/badge/Deploy-Heroku-8A2BE2?style=for-the-badge&logo=heroku&logoColor=white" width="200" />  
   </a>  
 </p>  
@@ -62,10 +62,10 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>  
 ## 📡 𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏 𝐂𝐎𝐍𝐍𝐄𝐂𝐓𝐒  
 <p align="center">  
-  <a href="https://whatsapp.com/channel/0029VbAhxYY90x2vgwhXJV3O">  
+  <a href="https://whatsapp.com/channel/0029Vb7XEKLFCCocATbz3a1L">  
     <img src="https://img.shields.io/badge/Join-Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />  
   </a>  
-  <a href="https://api.whatsapp.com/send?phone=+923147168309&text=➪𝐇𝐄𝐘𓆩🐍🍷🌹'">  
+  <a href="https://api.whatsapp.com/send?phone=+923471443060&text=➪𝐇𝐄𝐘𓆩🐍🍷🌹'">  
     <img src="https://img.shields.io/badge/Contact-Owner-ff0000?style=for-the-badge&logo=whatsapp&logoColor=white" />  
   </a>  
 </p>  
