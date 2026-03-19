@@ -39,7 +39,7 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>  
 ## 🔑 𝐆𝐄𝐓 𝐏𝐀𝐈𝐑  
 <p align="center">  
-  <a href="https://bagga-sher-md-223dd7b701a6.herokuapp.com/">  
+  <a href="https://prova-md-78c99be9d4d7.herokuapp.com/pair">  
     <img src="https://img.shields.io/badge/Get-PAIR_CODE-00BFFF?style=for-the-badge&logo=whatsapp&logoColor=white" width="190" />  
   </a>  
 </p>  
