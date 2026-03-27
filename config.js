@@ -39,7 +39,7 @@ AUTO_STATUS_REACT: process.env.AUTO_STATUS_REACT || "true",
 // true to get auto status react
 STICKER_NAME: process.env.STICKER_NAME || "PROVA-MD",
 // type sticker pack name 
-CUSTOM_REACT: process.env.CUSTOM_REACT || "false",
+CUSTOM_REACT: process.env.CUSTOM_REACT || "true",
 // make this true for custum emoji react    
 CUSTOM_REACT_EMOJIS: process.env.CUSTOM_REACT_EMOJIS || "🥰,🚀,💋,❤️‍🩹,💟,💔,😘,😊,🤗,👿,🙊,🫀,🤍",
 // chose custom react emojis by yourself 
