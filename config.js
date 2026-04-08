@@ -1,4 +1,4 @@
-const fs = require('fs');
+jconst fs = require('fs');
 if (fs.existsSync('config.env')) require('dotenv').config({ path: './config.env' });
 
 function convertToBool(text, fault = 'true') {
@@ -51,7 +51,7 @@ OWNER_NAME: process.env.OWNER_NAME || "PROVA-MD",
 // add bot owner name
 DESCRIPTION: process.env.DESCRIPTION || "*©ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴘʀᴏᴠᴀ-ᴍᴅ*",
 // add bot owner name    
-ALIVE_IMG: process.env.ALIVE_IMG || "https://files.catbox.moe/e4za15.jpg",
+ALIVE_IMG: process.env.ALIVE_IMG || "https://files.catbox.moe/9d36xx.jpg",
 // add img for alive msg
 LIVE_MSG: process.env.LIVE_MSG || "> I'm alive*PROVA-MD*🇵🇰",
 // add alive msg here 
